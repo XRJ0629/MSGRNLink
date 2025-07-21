@@ -18,23 +18,23 @@ The project has been tested on the following environment specification:
    
 5. Pytorch 1.13.1
     
-6. Other libraries and python packages (See below)
+6. Other libraries and python packages (See below):
 
-networkx                        2.6.3
+  networkx                        2.6.3
 
-numpy                           1.21.6
+  numpy                           1.21.6
 
-scipy                           1.7.3
+  scipy                           1.7.3
 
-argparse                        1.1.0
+  argparse                        1.1.0
 
-sklearn                         0.23.2
+  sklearn                         0.23.2
 
-torch                           0.14.1
+  torch                           0.14.1
 
-torch-geometric                 2.0.3 (https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
+  torch-geometric                 2.0.3 (https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
 
-torch-geometric-signed-directed 0.22.0
+  torch-geometric-signed-directed 0.22.0
 
-tensorboard                     2.6.2
+  tensorboard                     2.6.2
 
