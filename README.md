@@ -3,7 +3,7 @@ This is the repository for the manuscript: MSGRNLink: Gene regulatory network in
 
 This project uses code published by Yixuan He at "https://github.com/SherylHYX/MSGNN", which is licensed under the MIT License.The original license text can be found in LICENSE.
 
-If you have any questions or feedback, please contact Rijie Xi (xrj010629@163.com)
+If you have any questions or feedback, please contact Rijie Xi (rjiexi06@gmail.com)
 
 # Requirements
 The project has been tested on the following environment specification:
